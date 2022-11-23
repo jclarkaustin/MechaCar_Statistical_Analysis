@@ -33,8 +33,8 @@ Multiple R-squared:  0.7149,	Adjusted R-squared:  0.6825
 F-statistic: 22.07 on 5 and 44 DF,  p-value: 5.35e-11
 
 ## Summary Statistics on Suspension Coils
-![alt text](https://github.com/jclarkaustin/MechaCar_Statistical_Analysis/TotalSummary.png?raw=true)
-![alt text](https://github.com/jclarkaustin/MechaCar_Statistical_Analysis/LotSummary.png?raw=true)
+![TotalSummary](https://github.com/jclarkaustin/MechaCar_Statistical_Analysis/TotalSummary.png?raw=true)
+![LotSummary](https://github.com/jclarkaustin/MechaCar_Statistical_Analysis/LotSummary.png?raw=true)
 
 ## T-Tests on Suspension Coils
 One Sample t-test
