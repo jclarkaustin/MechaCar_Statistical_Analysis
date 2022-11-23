@@ -88,3 +88,4 @@ mean of x
   1496.14 
 
 ## Study Design: MechaCar vs Competition
+I'll be honest, I have no idea what this data means. Hopefully smarter people than I will be able to interpret it and make their own conclusions.
