@@ -34,7 +34,7 @@ F-statistic: 22.07 on 5 and 44 DF,  p-value: 5.35e-11
 
 ## Summary Statistics on Suspension Coils
 ![TotalSummary](https://github.com/jclarkaustin/MechaCar_Statistical_Analysis/blob/main/TotalSummary.png?raw=true)
-![LotSummary](https://github.com/jclarkaustin/MechaCar_Statistical_Analysis/LotSummary.png?raw=true)
+![LotSummary](https://github.com/jclarkaustin/MechaCar_Statistical_Analysis/blob/main/LotSummary.png?raw=true)
 
 ## T-Tests on Suspension Coils
 One Sample t-test
